@@ -24,3 +24,15 @@ This project is a terminal-based online shopping cart model implemented in Java.
 1. Clone the repository:
    ```sh
    git clone https://github.com/07aagamshah04/Online-Shopping-Cart-Model.git
+
+### For Example
+![](images/image1.jpg)
+![](images/image2.jpg)
+![](images/image3.jpg)
+![](images/image4.jpg)
+![](images/image5.jpg)
+![](images/image6.jpg)
+![](images/image7.jpg)
+![](images/image8.jpg)
+![](images/image9.jpg)
+![](images/image10.jpg)
